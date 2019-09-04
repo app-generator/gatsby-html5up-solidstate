@@ -12,7 +12,6 @@ Open-source app built with GatsbyJS on top of HTML5Up Solidstate design.
 ## App Links
 
 - [GatsbyJS Solidstate](https://gatsby-html5up-solidstate.appseed.us) - live demo
-- [Solidstate](https://html5up.net/solidstate) - the design provided by Html5UP 
 
 <br />
 
