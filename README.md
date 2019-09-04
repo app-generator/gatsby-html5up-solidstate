@@ -1,76 +1,42 @@
-# gatsby-starter-solidstate
+# [GatsbyJS Solidstate](https://appseed.us/apps/gatsbyjs/gatsby-html5up-solidstate)
 
-Gatsby.js V2 starter template based on Solid State by HTML5 UP
+Open-source app built with GatsbyJS on top of HTML5Up Solidstate design. 
+**Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-solidstate) project.**
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+<br />
 
-![Screenshot](./src/assets/img/screenshot.jpg)
+![GatsbyJS Solidstate - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-solidstate-intro.gif?raw=true)
 
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-solidstate/)
+<br />
 
-## Screenshot
+## App Links
 
-![Screenshot](./src/assets/img/demo.png)
+- [GatsbyJS Solidstate](https://gatsby-html5up-solidstate.appseed.us) - live demo
+- [Solidstate](https://html5up.net/solidstate) - the design provided by Html5UP 
 
-## Install
+<br />
 
-Make sure that you have the Gatsby CLI program installed:
+## How to use it
+- Clone this repo `git clone https://github.com/app-generator/gatsby-html5up-solidstate.git`
+- change directory to `gatsby-html5up-solidstate`
+- `yarn` - install modules
+- `yarn start` - start for development
+- `yarn build` - build for production
 
-```sh
-npm install --global gatsby-cli
-```
+<br />
 
-And run from your CLI:
+## Support
 
-```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-solidstate
-```
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed**
 
-Then you can run it by:
+<br />
 
-```sh
-cd gatsby-example-site
-npm install
-gatsby develop
-```
+## Resources
+ 
+ - [GatsbyJS](https://www.gatsbyjs.org/)
+ - More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
 
-### Personalization
+<br />
 
-Edit `config.js` to put up your details
-
-```javascript
-module.exports = {
-  siteTitle: 'Gatsby Starter solidstate', // <title>
-  ...
-  heading: 'Anubhav',
-  subHeading: 'Web Developer',
-  // social
-  socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    }
-    ...
-  ],
-};
-
-```
-
-### Deploying using Github page
-
-`package.json` has a default script that uses `gh-pages` module to publish on Github pages. Simply running `npm run deploy` would publish the site on github pages.
-
-Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefix/) value set for gatsby config in `config.js`. Change `pathPrefix` to relevant path if your gatsby site is hosted on subpath of a domain, `https://theanubhav.com/somePath/`. If you are hosting it as root site, i.e, `https://theanubhav.com/` , remove the pathPrefix configuration.
-
-### Contribution
-
-Suggestions and PRs are welcome!
-
-Please create issue or open PR request for contribution.
-
-### License
-
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
-
-refer `LICENSE` file in this repository.
+---
+[GatsbyJS Solidstate](https://appseed.us/apps/gatsbyjs/gatsby-html5up-solidstate) provided by **AppSeed**
